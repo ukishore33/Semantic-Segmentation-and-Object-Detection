@@ -1,4 +1,4 @@
-# Object Detection and Semantic Segmentation Project
+ # Object Detection and Semantic Segmentation Project
 
 This project implements object detection and semantic segmentation on images and videos using Python, OpenCV, PyTorch, and pre-trained YOLO and DeepLab models.
 
